@@ -12,7 +12,7 @@ pip install -e tw_rouge
 ```
 
 
-# Dowload
+# Download
 ```
 bash ./download.sh
 ```
